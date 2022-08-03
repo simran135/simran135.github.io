@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-My resume is available [here](/files/Kaur-Simran-CV.pdf).
+My resume is available [here](http://academicpages.github.io/files/Kaur-Simran-CV.pdf).
