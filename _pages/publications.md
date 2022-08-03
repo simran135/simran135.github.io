@@ -1,16 +1,12 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+**Gradient Descent on Neural Networks Typically Occurs at the Edge of Stability** [[Link]](https://arxiv.org/abs/2103.00065/)
+Jeremy Cohen, **Simran Kaur**, Yuanzhi Li, Zico Kolter, Ameet Talwalker
+ICLR, 2021
+NeurIPS Workshop on Optimization for Machine Learning, 2020
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
