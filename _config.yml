@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Simran Kaur"
 title_separator          : "-"
 name                     : &name "Simran Kaur"
-description              : &description "personal description"
+description              : &description "PhD Student"
 url                      : https://simran135.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "simran135/simran135.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Simran Kaur"
   avatar           : "profile.png"
-  bio              : "Incoming CS PhD Student"
+  bio              : "Incoming CS PhD Student @ Princeton University"
   location         : "Princeton, NJ"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=AMHNjTIAAAAJ&hl=en&authuser=2/"
